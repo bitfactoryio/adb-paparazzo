@@ -1,0 +1,7 @@
+Shell Skript to take screenshots from all attached ADB devices
+
+I use this script to provide screenshots for google play store or pull requests for the team.
+
+usage:
+- sh paparazzo.sh XXX
+
